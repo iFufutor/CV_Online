@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<infos>
+	<name>Hollande</name>
+	<first_name>Francois</first_name>
+	<email>francois@esgi.fr</email>
+	<city>Paris</city>
+	<birth>
+		<date>1954</date>
+	</birth>
+	<high_school>
+		<high_school_name>Lycée Pasteur</high_school_name>
+		<high_school_graduation>1972</high_school_graduation>
+		<high_school_description>Lycée</high_school_description>
+	</high_school>
+	<upper_school>
+		<upper_school_name>ENA</upper_school_name>
+		<upper_school_graduation>1980</upper_school_graduation>
+		<upper_school_description>Ecole de l'administration</upper_school_description>
+	</upper_school>
+	<socials>
+		<twitter></twitter>
+		<facebook></facebook>
+		<google></google>
+		<instagram></instagram>
+	</socials>
+</infos>

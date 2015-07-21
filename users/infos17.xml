@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<infos>
+	<name>Kallini</name>
+	<first_name>Raphaël</first_name>
+	<email>raphael@esgi.fr</email>
+	<city>Paris</city>
+	<birth>
+		<date>13 septembre 1995</date>
+	</birth>
+	<high_school>
+		<high_school_name>Lycée Monnet</high_school_name>
+		<high_school_graduation>Juillet 2013</high_school_graduation>
+		<high_school_description>BAC S SVT Mention très bien</high_school_description>
+	</high_school>
+	<upper_school>
+		<upper_school_name>ESGI</upper_school_name>
+		<upper_school_graduation>2016</upper_school_graduation>
+		<upper_school_description>Licence Sécurité informatique</upper_school_description>
+	</upper_school>
+	<socials>
+		<twitter></twitter>
+		<facebook></facebook>
+		<google></google>
+		<instagram></instagram>
+	</socials>
+</infos>

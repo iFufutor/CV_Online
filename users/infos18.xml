@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<infos>
+	<name>Furet</name>
+	<first_name>Adrien</first_name>
+	<email>adrien@esgi.fr</email>
+	<city>Paris</city>
+	<birth>
+		<date>27 janvier 1994</date>
+	</birth>
+	<high_school>
+		<high_school_name>Lycée Cabrini</high_school_name>
+		<high_school_graduation>2013</high_school_graduation>
+		<high_school_description>BAC S SI </high_school_description>
+	</high_school>
+	<upper_school>
+		<upper_school_name>ESGI</upper_school_name>
+		<upper_school_graduation>2016</upper_school_graduation>
+		<upper_school_description>Licence Sécurité informatique</upper_school_description>
+	</upper_school>
+	<socials>
+		<twitter></twitter>
+		<facebook></facebook>
+		<google></google>
+		<instagram></instagram>
+	</socials>
+</infos>

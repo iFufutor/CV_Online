@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<infos>
+	<name>Briatte</name>
+	<first_name>Benoit</first_name>
+	<email>briatte@esgi.fr</email>
+	<city>Paris</city>
+	<birth>
+		<date>21/08/1988</date>
+	</birth>
+	<high_school>
+		<high_school_name>Lycée</high_school_name>
+		<high_school_graduation>2005</high_school_graduation>
+		<high_school_description>Cool</high_school_description>
+	</high_school>
+	<upper_school>
+		<upper_school_name>ESGI</upper_school_name>
+		<upper_school_graduation>2013</upper_school_graduation>
+		<upper_school_description>Ecole</upper_school_description>
+	</upper_school>
+	<socials>
+		<twitter>http://twitter.com/bbriatte</twitter>
+		<facebook></facebook>
+		<google></google>
+		<instagram></instagram>
+	</socials>
+</infos>

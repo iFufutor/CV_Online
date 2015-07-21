@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<infos>
+	<name>Alfieri</name>
+	<first_name>Gaetan</first_name>
+	<email>gaetan@esgi.fr</email>
+	<city>Paris</city>
+	<birth>
+		<date>1995</date>
+	</birth>
+	<high_school>
+		<high_school_name>Don't know</high_school_name>
+		<high_school_graduation>2013</high_school_graduation>
+		<high_school_description>Lycée</high_school_description>
+	</high_school>
+	<upper_school>
+		<upper_school_name>ESGI</upper_school_name>
+		<upper_school_graduation>2018</upper_school_graduation>
+		<upper_school_description>Ecole d'ingénieur</upper_school_description>
+	</upper_school>
+	<socials>
+		<twitter></twitter>
+		<facebook></facebook>
+		<google></google>
+		<instagram></instagram>
+	</socials>
+</infos>
